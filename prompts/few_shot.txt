@@ -1,0 +1,32 @@
+Classify the customer support message into exactly one category.
+
+Valid categories:
+- order_status
+- refund_request
+- product_question
+- shipping_issue
+- complaint
+- account_issue
+
+Return ONLY one of the exact category strings above as the label. Do not include punctuation, JSON, or explanation.
+
+Examples:
+
+Customer message:
+I cannot log in because the password reset email never arrives.
+Output:
+account_issue
+
+Customer message:
+Does this backpack fit a 16 inch laptop?
+Output:
+product_question
+
+Customer message:
+The carrier says delivered, but there is nothing on my porch or with my neighbors.
+Output:
+shipping_issue
+
+Customer message:
+{message}
+Output:

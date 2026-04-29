@@ -1,0 +1,16 @@
+Classify the customer support message into exactly one category.
+
+Valid categories:
+- order_status
+- refund_request
+- product_question
+- shipping_issue
+- complaint
+- account_issue
+
+First reason briefly about the message in 1-2 sentences. Then output the final label on a separate line prefixed with `Label:`.
+
+The final label after `Label:` must be ONLY one of the exact category strings above. Do not add anything after the label line.
+
+Customer message:
+{message}

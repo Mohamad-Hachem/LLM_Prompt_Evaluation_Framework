@@ -1,0 +1,14 @@
+Classify the customer support message into exactly one category.
+
+Valid categories:
+- order_status
+- refund_request
+- product_question
+- shipping_issue
+- complaint
+- account_issue
+
+Return ONLY one of the exact category strings above as the label. Do not include punctuation, JSON, or explanation.
+
+Customer message:
+{message}

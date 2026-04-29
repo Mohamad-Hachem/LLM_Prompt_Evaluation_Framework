@@ -1,0 +1,101 @@
+id,message,true_label
+1,"Hi, I placed order #18472 last Friday and the tracking page has not updated. Can you tell me where it is?",order_status
+2,"Where is my package? It was supposed to be here yesterday and I have no update.",order_status
+3,"Can you check if my order shipped yet? I never got a tracking email.",order_status
+4,"I ordered the espresso machine two days ago. Is it still processing or did it leave the warehouse?",order_status
+5,"The tracking link says label created for three days. Has the carrier actually picked it up?",order_status
+6,"Just wondering when order 90331 will arrive. No rush, I just need to plan around delivery.",order_status
+7,"Could someone send me the tracking number for my sneaker order? I checked spam and do not see it.",order_status
+8,"Is there an estimated delivery date for the desk chair I bought on Monday?",order_status
+9,"My order still says awaiting fulfillment. Is that normal after 5 business days?",order_status
+10,"I need to know if my package will arrive before the 12th because I am leaving town.",order_status
+11,"The delivery estimate changed twice. What is the current status of order #AC7821?",order_status
+12,"Can you look up order 61109? The website just spins when I try to view tracking.",order_status
+13,"I bought a gift and want to see if it shipped. Please send the latest shipping status.",order_status
+14,"The carrier says it is in transit, but your site says processing. Which one is right?",order_status
+15,"I received part of my order, but the second item has no tracking. Is it shipping separately?",order_status
+16,"Do you know when the backordered lamp will ship? My confirmation email did not include a date.",order_status
+17,"Please update me on order #7712. It has been stuck on preparing to ship since last week.",order_status
+18,"I returned the jacket last week and still do not see my refund. When will the money be back on my card?",refund_request
+19,"This blender is not what I expected. I want to send it back and get a refund.",refund_request
+20,"Please cancel my order if it has not shipped and refund me.",refund_request
+21,"The shoes are too small even though I used the size chart. How do I start a return?",refund_request
+22,"My order arrived broken and I want my money back, not a replacement.",refund_request
+23,"I was charged twice for the same order. Please refund the extra charge.",refund_request
+24,"The headphones stopped working after one day. Can I return them for a refund?",refund_request
+25,"I paid for express shipping, but it arrived late. I would like the shipping fee refunded.",refund_request
+26,"I changed my mind about the patio set. It is still unopened and I want to return it.",refund_request
+27,"The item description was misleading. I would like a full refund.",refund_request
+28,"How long does it take to get refunded after you receive a return?",refund_request
+29,"I sent back order 40218 using your label. Can you confirm the refund is being processed?",refund_request
+30,"The coupon did not apply and I was charged full price. Can you refund the difference?",refund_request
+31,"I do not want store credit. I need the refund back to my original payment method.",refund_request
+32,"The package is missing two items, so I want a partial refund for what never arrived.",refund_request
+33,"Please refund the warranty plan I added by mistake.",refund_request
+34,"I refused delivery because the box was crushed. I need the order refunded.",refund_request
+35,"Does this backpack fit a 16 inch laptop?",product_question
+36,"Is the dinnerware set microwave safe and dishwasher safe?",product_question
+37,"Will this phone case work with the iPhone 15 Pro or only the regular 15?",product_question
+38,"Do the curtains come as a pair or just one panel?",product_question
+39,"What is the weight limit for the adjustable standing desk?",product_question
+40,"Is the sweater true to size? I am between medium and large.",product_question
+41,"Can the water filter be used with the older Model B pitcher?",product_question
+42,"Before I order, can you tell me whether the sofa fabric is stain resistant?",product_question
+43,"Does the baby monitor require Wi-Fi, or can it work locally?",product_question
+44,"What are the dimensions of the large storage bins?",product_question
+45,"Is the leather on these boots genuine or synthetic?",product_question
+46,"Can I use this charger for both a laptop and a tablet?",product_question
+47,"Do you sell replacement lids that fit this travel mug?",product_question
+48,"Is the mattress firm, medium, or soft? The reviews are all over the place.",product_question
+49,"Does the grill include the propane hose in the box?",product_question
+50,"Are the earrings nickel free? I have a sensitivity.",product_question
+51,"I bought the lamp and it looks darker than expected. Is the walnut color supposed to vary?",product_question
+52,"My package arrived soaked and the box was falling apart. The items inside may be damaged.",shipping_issue
+53,"The carrier says delivered, but there is nothing on my porch or with my neighbors.",shipping_issue
+54,"You shipped my order to my old address even though I updated it before checkout.",shipping_issue
+55,"Tracking says the package is lost in transit. What happens now?",shipping_issue
+56,"I received someone else's order today. The label has my address but the items are wrong.",shipping_issue
+57,"The box was crushed and the glass jars inside were shattered.",shipping_issue
+58,"My delivery was marked as failed even though I was home all day.",shipping_issue
+59,"The address on the shipping confirmation is missing my apartment number.",shipping_issue
+60,"FedEx says they returned the package to sender. I did not request that.",shipping_issue
+61,"Only one of the two boxes arrived, and the tracking for the other stopped updating.",shipping_issue
+62,"My order arrived with the outer package open and one item missing.",shipping_issue
+63,"The package was left in the rain even though delivery instructions said covered porch.",shipping_issue
+64,"I paid for overnight shipping, but the carrier has not moved the package in 4 days.",shipping_issue
+65,"The delivery photo shows a different building. That is not my front door.",shipping_issue
+66,"The shipping label has the wrong ZIP code. Can you correct it before it goes out?",shipping_issue
+67,"My item was delivered to a parcel locker, but I never received the access code.",shipping_issue
+68,"The replacement order is also stuck with the carrier and now says exception.",shipping_issue
+69,"I have contacted support three times and nobody has actually answered my question.",complaint
+70,"Your website made me reorder twice and then customer service blamed me. This has been awful.",complaint
+71,"I am really disappointed with the way this was handled. I expected better from your company.",complaint
+72,"The agent I chatted with was rude and ended the conversation before helping me.",complaint
+73,"This whole process is frustrating. Every update contradicts the last one.",complaint
+74,"I keep getting canned responses that do not address the issue.",complaint
+75,"The quality of service has gone downhill. I used to recommend this store, but not anymore.",complaint
+76,"I waited 40 minutes on hold and still got transferred to the wrong team.",complaint
+77,"Your return policy is confusing and the support article does not match what agents tell me.",complaint
+78,"I am tired of chasing this. Please escalate my case to a supervisor.",complaint
+79,"The product was fine, but the support experience was terrible.",complaint
+80,"Nobody seems to read the notes on my case. I have explained the same thing four times.",complaint
+81,"The checkout page promised one thing and the confirmation email said another. That feels misleading.",complaint
+82,"I am not asking another basic question. I want someone to take responsibility for this mess.",complaint
+83,"Your sale pricing changed right after I bought the item and support would not even discuss it.",complaint
+84,"This is my first order with you and honestly it has been a bad experience from start to finish.",complaint
+85,"I cannot log in because the password reset email never arrives.",account_issue
+86,"My account is locked after too many attempts. Can someone unlock it?",account_issue
+87,"I need to change the email address on my account, but the settings page gives an error.",account_issue
+88,"The app keeps saying my session expired every time I try to check out.",account_issue
+89,"I made an order as a guest. Can you attach it to my account?",account_issue
+90,"I forgot my password and no longer have access to the phone number for verification.",account_issue
+91,"My saved addresses disappeared from my profile.",account_issue
+92,"Two accounts were created with the same email somehow. Can you merge them?",account_issue
+93,"I cannot update my payment method because the account page will not load.",account_issue
+94,"My loyalty points are missing after I signed in on the new app.",account_issue
+95,"The verification code keeps saying invalid even when I copy it directly from the email.",account_issue
+96,"Please delete my customer account and personal information.",account_issue
+97,"I can browse the site, but whenever I sign in it redirects me back to the login page.",account_issue
+98,"My order history is blank even though I bought three items last month.",account_issue
+99,"Someone may have used my account to place an order I do not recognize.",account_issue
+100,"I need help changing my password before I make another purchase.",account_issue
